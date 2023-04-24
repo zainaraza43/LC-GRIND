@@ -1,3 +1,6 @@
+from typing import List
+
+
 def containsDuplicate(self, nums: List[int]) -> bool:
     passed = set()
     for n in nums:
