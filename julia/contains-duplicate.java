@@ -4,16 +4,14 @@ class Solution {
         int dupe;
         // start at [0], then check [1]
         for(int i = 0; i < arraySize; i++){
-            // check [0] against [1],[2],[...] backwards
-            for(int j = arraySize; j > 0; j--){
-                dupe = nums[i];
+          dupe = nums[i];
+            // check [0] against [1],[2],[...]
+            for(int j = i+1; j < arraySize; j++){
                 if(dupe == nums[j]){
-                    System.out.println(true);
+                  return true;
                 }
             }
-            if(dupe = nums[arraySize]){
-                System.out.println(false);
-            }
         }
+        return false;
     }
 }
