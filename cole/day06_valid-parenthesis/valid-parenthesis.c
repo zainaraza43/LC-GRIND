@@ -1,13 +1,11 @@
-// ANOTHER 100% SOLUTION LES GOOOOOO
-// (im doing c instead of cpp now because all my interviews will be in C)
+// beats 100% runtime 99.71% memory
 
 typedef unsigned int uint;
+#include <stdint.h>
 
 bool isValid(char *s)
 {
-    // uint len = strlen(s);
-    // char s[10000];
-    uint top = 0;
+    uint16_t top = 0;
     for (char *ss = s; *ss; ++ss)
     {
         if (*ss == '(' || *ss == '[' || *ss == '{')
