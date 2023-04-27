@@ -11,3 +11,4 @@ our solutions to the Neetcode 150
 5. [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
 6. [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)
 7. [Binary Search](https://leetcode.com/problems/binary-search/)
+8. [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)
