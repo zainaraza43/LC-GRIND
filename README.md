@@ -12,3 +12,4 @@ our solutions to the Neetcode 150
 6. [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)
 7. [Binary Search](https://leetcode.com/problems/binary-search/)
 8. [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)
+9. [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)
