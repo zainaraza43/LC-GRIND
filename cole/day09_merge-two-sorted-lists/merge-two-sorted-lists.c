@@ -7,16 +7,17 @@
  *     struct ListNode *next;
  * };
  */
-struct ListNode* mergeTwoLists(struct ListNode* list1, struct ListNode* list2){
+struct ListNode *mergeTwoLists(struct ListNode *list1, struct ListNode *list2)
+{
     // obvious cases
     switch (((list2 != NULL) << 1) | (list1 != NULL))
     {
-        case 0:
-            return NULL;
-        case 1:
-            return list1;
-        case 2:
-            return list2;
+    case 0:
+        return NULL;
+    case 1:
+        return list1;
+    case 2:
+        return list2;
     }
     // initialize output list
     struct ListNode *out, *l, *tmp;
