@@ -1,0 +1,15 @@
+C:\Users\ayasm\source\LC-GRIND\aya\day1\obj\Debug\net7.0\day1.csproj.AssemblyReference.cache
+C:\Users\ayasm\source\LC-GRIND\aya\day1\obj\Debug\net7.0\day1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ayasm\source\LC-GRIND\aya\day1\obj\Debug\net7.0\day1.AssemblyInfoInputs.cache
+C:\Users\ayasm\source\LC-GRIND\aya\day1\obj\Debug\net7.0\day1.AssemblyInfo.cs
+C:\Users\ayasm\source\LC-GRIND\aya\day1\obj\Debug\net7.0\day1.csproj.CoreCompileInputs.cache
+C:\Users\ayasm\source\LC-GRIND\aya\day1\bin\Debug\net7.0\day1.exe
+C:\Users\ayasm\source\LC-GRIND\aya\day1\bin\Debug\net7.0\day1.deps.json
+C:\Users\ayasm\source\LC-GRIND\aya\day1\bin\Debug\net7.0\day1.runtimeconfig.json
+C:\Users\ayasm\source\LC-GRIND\aya\day1\bin\Debug\net7.0\day1.dll
+C:\Users\ayasm\source\LC-GRIND\aya\day1\bin\Debug\net7.0\day1.pdb
+C:\Users\ayasm\source\LC-GRIND\aya\day1\obj\Debug\net7.0\day1.dll
+C:\Users\ayasm\source\LC-GRIND\aya\day1\obj\Debug\net7.0\refint\day1.dll
+C:\Users\ayasm\source\LC-GRIND\aya\day1\obj\Debug\net7.0\day1.pdb
+C:\Users\ayasm\source\LC-GRIND\aya\day1\obj\Debug\net7.0\day1.genruntimeconfig.cache
+C:\Users\ayasm\source\LC-GRIND\aya\day1\obj\Debug\net7.0\ref\day1.dll
