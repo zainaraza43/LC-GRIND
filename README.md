@@ -13,3 +13,5 @@ our solutions to the Neetcode 150
 7. [Binary Search](https://leetcode.com/problems/binary-search/)
 8. [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)
 9. [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)
+10. [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)
+11. [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/)
