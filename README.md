@@ -15,3 +15,4 @@ our solutions to the Neetcode 150
 9. [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)
 10. [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)
 11. [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/)
+12. [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)
