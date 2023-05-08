@@ -20,3 +20,5 @@ our solutions to the Neetcode 150
 14. [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/)
 15. [Same Tree](https://leetcode.com/problems/same-tree)
 16. [Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/)
+17. [Kth Largest Element in a Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream/)
+18. [Last Stone Weight](https://leetcode.com/problems/last-stone-weight/)
