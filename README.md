@@ -24,3 +24,4 @@ our solutions to the Neetcode 150
 18. [Last Stone Weight](https://leetcode.com/problems/last-stone-weight/)
 19. [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)
 20. [Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/)
+21. [Meeting Rooms](https://www.lintcode.com/problem/920/)
