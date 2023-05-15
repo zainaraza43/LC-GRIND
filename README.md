@@ -21,3 +21,7 @@ our solutions to the Neetcode 150
 15. [Same Tree](https://leetcode.com/problems/same-tree)
 16. [Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/)
 17. [Kth Largest Element in a Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream/)
+18. [Last Stone Weight](https://leetcode.com/problems/last-stone-weight/)
+19. [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)
+20. [Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/)
+21. [Meeting Rooms](https://www.lintcode.com/problem/920/)
