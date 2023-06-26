@@ -48,3 +48,6 @@ our solutions to the Neetcode 150
 42. [Min Stack](https://leetcode.com/problems/min-stack)
 43. [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation)
 44. [Generate Parentheses](https://leetcode.com/problems/generate-parentheses)
+45. [Daily Temperatures](https://leetcode.com/problems/daily-temperatures)
+46. [Car Fleet](https://leetcode.com/problems/car-fleet)
+47. [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix)
