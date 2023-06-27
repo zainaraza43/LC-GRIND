@@ -51,3 +51,4 @@ our solutions to the Neetcode 150
 45. [Daily Temperatures](https://leetcode.com/problems/daily-temperatures)
 46. [Car Fleet](https://leetcode.com/problems/car-fleet)
 47. [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix)
+48. [Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas)
