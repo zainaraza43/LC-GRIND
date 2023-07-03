@@ -53,3 +53,5 @@ our solutions to the Neetcode 150
 47. [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix)
 48. [Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas)
 49. [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array)
+50. [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array)
+51. [Time Based Key-Value Store](https://leetcode.com/problems/time-based-key-value-store)
